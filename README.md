@@ -3,9 +3,9 @@ This project repository serves as a visualization dashboard and emphasizes the i
 
 Usage:
 
-Clone the repository https://github.com/aramirez209/Flight-Safety-Dashboard
+  1. Clone the repository https://github.com/aramirez209/Flight-Safety-Dashboard
 
-Run Tableau 
+  2. Run Tableau 
 
 Contributing: Analya Ramirez
 
